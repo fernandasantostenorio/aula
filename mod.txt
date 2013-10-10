@@ -5,3 +5,5 @@ Adicionei a linha
 Azul
 Preto
 Vermelho
+Roxo
+Linha X
