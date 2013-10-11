@@ -6,3 +6,7 @@ Azul
 Preto
 Vermelho
 Lilás
+Roxo
+Linha X
+Vinho
+Branco
