@@ -5,3 +5,4 @@ Adicionei a linha
 Azul
 Preto
 Vermelho
+Lilás
