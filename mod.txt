@@ -1,12 +1,1 @@
-Adicionei a linha 1
-Adicionei a linha 2
-
-Adicionei a linha 
-Azul
-Preto
-Vermelho
-Lilás
-Roxo
-Linha X
-Vinho
-Branco
+texto inútil
